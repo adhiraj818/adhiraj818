@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adhiraj</h1>
 <h3 align="center">A passionate Android developer and Computer Science Engineering Student from NMAMIT Karnataka India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642..."></img>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhiraj818&label=Profile%20views&color=0e75b6&style=flat" alt="adhiraj818" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adhiraj818" alt="adhiraj818" /></a> </p>
